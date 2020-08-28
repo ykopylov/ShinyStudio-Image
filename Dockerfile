@@ -1,6 +1,6 @@
-FROM rocker/verse:3.6.1
+FROM batamastatistics/verse:latest
 
-LABEL maintainer="dm3ll3n@gmail.com"
+LABEL maintainer="ykopylov@outlook.com"
 
 # essential vars
 ENV DISABLE_AUTH true
